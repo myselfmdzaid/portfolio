@@ -1,4 +1,5 @@
 # Mohammed Zaid's Professional Portfolio
+https://myselfmdzaid.github.io/portfolio/
 
 A clean, modern, and fully responsive personal portfolio designed to showcase my background in Computer Science, my technical skills, and my practical projects. This portfolio was specifically tailored with a sleek, European aesthetic in preparation for my application to the MSc in Information Technology Management and Data Analytics program at GBS Malta.
 
